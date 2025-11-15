@@ -41,10 +41,10 @@ const OfficerDashboard = () => {
         <div className="stat-card"><div className="stat-title">Approval Rate</div><div className="stat-value">{approvalRate}%</div></div>
       </div>
 
-      <Link to="/officer/review-loans" className="card" style={{textDecoration: 'none', cursor: 'pointer'}}>
-        <div style={{textAlign: 'center'}}>
-          <h3 style={{fontSize: '1.25rem', marginBottom: '0.5rem', color: '#333'}}>Review Loans</h3>
-          <p style={{color: '#666', margin: 0}}>View and review pending loan applications</p>
+      <Link to="/officer/review-loans" style={{ textDecoration: 'none', cursor: 'pointer' }}>
+        <div className="card" style={{ textAlign: 'center' }}>
+          <h3 style={{ fontSize: '1.25rem', marginBottom: '0.5rem', color: '#333' }}>Review Loans</h3>
+          <p style={{ color: '#666', margin: 0 }}>View and review pending loan applications</p>
         </div>
       </Link>
     </div>

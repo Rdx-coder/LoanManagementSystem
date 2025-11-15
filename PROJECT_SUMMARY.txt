@@ -5,11 +5,7 @@ PROJECT STATISTICS:
    Backend Files:  21 files
    Frontend Files: 23 files  
    Total Files:    44 files
-
-   Backend Code:   ~44,000 characters
-   Frontend Code:  ~55,000 characters
-   Total Code:     ~99,000 characters
-
+     
 TECHNOLOGIES:
    Backend:  Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs
    Frontend: React 18, Vite, React Router, Axios, Context API
