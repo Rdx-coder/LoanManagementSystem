@@ -1,28 +1,5 @@
 LOAN ORIGINATION & APPROVAL SYSTEM - PROJECT SUMMARY
 ====================================================
-
-PROJECT STATISTICS:
-   Backend Files:  21 files
-   Frontend Files: 23 files  
-   Total Files:    44 files
-     
-TECHNOLOGIES:
-   Backend:  Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs
-   Frontend: React 18, Vite, React Router, Axios, Context API
-   Database: MongoDB with Mongoose ODM
-
-FEATURES IMPLEMENTED:
-   ✓ JWT-based authentication with role-based access control
-   ✓ Automatic loan eligibility scoring algorithm
-   ✓ MongoDB schema with proper relationships
-   ✓ RESTful API with input validation
-   ✓ React Context API for state management
-   ✓ Responsive UI with real-time updates
-   ✓ Secure password hashing with bcrypt
-   ✓ EMI calculator
-   ✓ Officer dashboard with statistics
-   ✓ Customer loan tracking
-
 TEST CREDENTIALS:
    Customer: ravi@example.com / password123
    Officer:  suresh.officer@example.com / password123
